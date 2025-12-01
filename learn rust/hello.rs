@@ -1,4 +1,5 @@
 // A simple Rust program that prints "Hello, world!" to the console
+// This is the main function where the execution of the program begins
 fn main(){
     println!("Hello, world!");
     println!("This is my first Rust program.");
